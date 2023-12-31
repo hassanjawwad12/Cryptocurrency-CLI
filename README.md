@@ -11,3 +11,7 @@ Commands I used while building:  npm i chalk chalk-animation figlet gradient-str
 You can play this [using](https://www.npmjs.com/package/sports-quiz-cli)
 npm i sports-quiz-cli
 Run this on your terminal and you can play this game.
+
+This is a glimpse of how it looks:
+<img scr="/ss.png" >
+<img src="quiz.png">
