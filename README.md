@@ -13,5 +13,5 @@ npm i sports-quiz-cli
 Run this on your terminal and you can play this game.
 
 This is a glimpse of how it looks:
-<img scr="ss.png" >
+<img scr="ss.png" width="50%" >
 <img src="quiz.png">
