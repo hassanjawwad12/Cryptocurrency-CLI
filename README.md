@@ -8,8 +8,8 @@ You only move to the next question when you answer the previous one correctly.
 Commands I used while building:  npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
 </br>
 
-You can play this [using](https://www.npmjs.com/package/sports-quiz-cli)
-npm i sports-quiz-cli
+You can play this using [npm i sports-quiz-cli](https://www.npmjs.com/package/sports-quiz-cli)
+
 Run this on your terminal and you can play this game.
 
 This is a glimpse of how it looks:
